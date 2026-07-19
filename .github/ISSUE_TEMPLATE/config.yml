@@ -1,0 +1,14 @@
+blank_issues_enabled: true
+
+contact_links:
+  - name: Documentation
+    url: https://github.com/GITHUBUSERNAME/PROJECTNAME/blob/main/README.md
+    about: Please review the documentation before opening an issue.
+
+  - name: Support
+    url: https://github.com/GITHUBUSERNAME/PROJECTNAME/discussions
+    about: Ask questions and get community support.
+
+  - name: Security Vulnerability
+    url: mailto:EMAIL@example.com
+    about: Please report security vulnerabilities privately.
